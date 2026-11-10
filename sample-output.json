@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ts::ChatGPT::US::today 12-m::1762646400",
+    "searchTerm": "ChatGPT",
+    "geo": "US",
+    "timeRange": "today 12-m",
+    "date": "2025-11-09T00:00:00.000Z",
+    "value": 100,
+    "isPartial": false
+  },
+  {
+    "id": "ts::Claude AI::US::today 12-m::1762646400",
+    "searchTerm": "Claude AI",
+    "geo": "US",
+    "timeRange": "today 12-m",
+    "date": "2025-11-09T00:00:00.000Z",
+    "value": 2,
+    "isPartial": false
+  },
+  {
+    "id": "ts::Gemini AI::US::today 12-m::1762646400",
+    "searchTerm": "Gemini AI",
+    "geo": "US",
+    "timeRange": "today 12-m",
+    "date": "2025-11-09T00:00:00.000Z",
+    "value": 5,
+    "isPartial": false
+  },
+  {
+    "id": "ts::ChatGPT::US::today 12-m::1763251200",
+    "searchTerm": "ChatGPT",
+    "geo": "US",
+    "timeRange": "today 12-m",
+    "date": "2025-11-16T00:00:00.000Z",
+    "value": 95,
+    "isPartial": false
+  },
+  {
+    "id": "ts::Claude AI::US::today 12-m::1763251200",
+    "searchTerm": "Claude AI",
+    "geo": "US",
+    "timeRange": "today 12-m",
+    "date": "2025-11-16T00:00:00.000Z",
+    "value": 2,
+    "isPartial": false
+  }
+]
